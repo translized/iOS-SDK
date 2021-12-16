@@ -18,7 +18,8 @@ To install using [Swift Package Manager](https://www.swift.org/package-manager/)
 a. Add through **File -> Swift Packages -> Add Package Dependency...** action in Xcode. Use https://github.com/translized/iOS-SDK repository URL and the Version: Up to Next Minor starting with 1.0.0 option.
 
 b. Add this line to **dependencies** section of your **Package.swift**:
-`.package(name: "Translized", url: "https://github.com/translized/iOS-SDK", .upToNextMinor(from: "1.0.0"))`
+
+    .package(name: "Translized", url: "https://github.com/translized/iOS-SDK", .upToNextMinor(from: "1.0.0"))
 
 ### Manual (.xcframework)
 To install **.xcframework** manually:
