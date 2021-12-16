@@ -1,0 +1,11 @@
+framework module Translized {
+  umbrella header "Translized.h"
+
+  export *
+  module * { export * }
+}
+
+module Translized.Swift {
+    header "Translized-Swift.h"
+    requires objc
+}
