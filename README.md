@@ -15,9 +15,9 @@ Create release on Translized dashboard and watch as new translations appear in y
 ### Swift Package Manager
 To install using [Swift Package Manager](https://www.swift.org/package-manager/):
 
-a. Add through **File -> Add Packages...** action in Xcode. Use https://github.com/translized/iOS-SDK repository URL and the Version: Up to Next Minor starting with 1.0.0 option.
+a. Add through `File -> Add Packages...` action in Xcode. Use https://github.com/translized/iOS-SDK repository URL and the Version: Up to Next Minor starting with 1.0.0 option.
 
-b. Add this line to **dependencies** section of your **Package.swift**:
+b. Add this line to `dependencies` section of your `Package.swift`:
 
     .package(name: "Translized", url: "https://github.com/translized/iOS-SDK", .upToNextMinor(from: "1.0.0"))
 
@@ -28,11 +28,11 @@ To install **.xcframework** manually:
 
 ## Getting started
 
-Before start make sure you have **projectId** and **otaToken**, which you can find in Project/Release and Account/API Access, and to make a release on Translized Dashboard/Project/Release.
+Before start make sure you have `projectId` and `otaToken`, which you can find in Project/Release and Account/API Access, and make a release on Translized Dashboard/Project/Release.
 
 ### Usage
 **Configuring the SDK**
-We recomment configuring Translized SDK within the AppDelegate function - `func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool`
+We recommend configuring Translized SDK within the AppDelegate function - `func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool`
 
     Translized.shared.setup(projectId: "Project ID", otaToken: "Ota token")
     Translized.shared.swizzleMainBundle()
@@ -49,7 +49,7 @@ To get new translations you need to call the `checkForUpdates:` method. A good p
 
 **Updating UI**
 
-Translized posts the TranslizedDidUpdateLocalization when the localization files are updated. Subscribe to it in any view controller or model in order to react and update your UI.
+Translized posts the `TranslizedDidUpdateLocalization` notification when the localization files are updated. Subscribe to it in any view controller or model in order to react and update your UI.
 
     NotificationCenter.default.addObserver(
             self,
