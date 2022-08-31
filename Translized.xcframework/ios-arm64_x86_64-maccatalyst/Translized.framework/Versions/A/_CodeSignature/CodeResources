@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		RSgmeCLB8uyvLlNJOsyyAD/DAh8=
+		qPl3R6vqF33yGqb9pdAzkeYEcBA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lcZe517SniQ/wmjg9sIW1Q74knrL8swi8cuw6jZvxuY=
+			h2nHczVtNRw8rvlTcok1XtNTWHD1rA/i/jEU/qrgElE=
 			</data>
 		</dict>
 		<key>Headers/Translized.h</key>
@@ -29,84 +29,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hoy3PGmEHPQT2dRLWkMjDEVUZz6kmDa5EvC0x1xae+U=
+			toF/41poppr5cqy4BdFbgJ708H+SvT8OVsVWuFtz4+o=
 			</data>
 		</dict>
 		<key>Modules/Translized.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mqCRjpCsK+gecYo953SFIlHowby7H+9fOPvB3aBKTzA=
+			BK9sbQLrGTKaWt1imJG6FsgI+u9hKgtvLltuD0ToDwc=
 			</data>
 		</dict>
 		<key>Modules/Translized.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mKF04iN1K9hWS6N1zRL/Me68LEm6zc2v0pHTTdjOvS0=
-			</data>
-		</dict>
-		<key>Modules/Translized.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Hoy3PGmEHPQT2dRLWkMjDEVUZz6kmDa5EvC0x1xae+U=
-			</data>
-		</dict>
-		<key>Modules/Translized.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mqCRjpCsK+gecYo953SFIlHowby7H+9fOPvB3aBKTzA=
-			</data>
-		</dict>
-		<key>Modules/Translized.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mKF04iN1K9hWS6N1zRL/Me68LEm6zc2v0pHTTdjOvS0=
+			ibuSzPCm73+McvJZWlFBS8JZHIWZc1CoBY+t8noePlE=
 			</data>
 		</dict>
 		<key>Modules/Translized.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SPwMjpxMN6O518jlMw/Su5HlWdjGTz8U/JSHF/V6DIE=
+			FfhlgkzSag8QJaig+ywkmBIsg+WiI64Q4UnKTvZx+i4=
 			</data>
 		</dict>
 		<key>Modules/Translized.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HD8YLbX/TQivweQ6ehU+2jYyKe3qWAPmI+0XfNaxryc=
+			nKjgVy5A7xfsiH/MMO2hGorINGszdasBXvJ1Jd+78y4=
 			</data>
 		</dict>
 		<key>Modules/Translized.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y8JylDprULA43cOOjGtw8XYAlqyISJr/052HREsI1BI=
-			</data>
-		</dict>
-		<key>Modules/Translized.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SPwMjpxMN6O518jlMw/Su5HlWdjGTz8U/JSHF/V6DIE=
-			</data>
-		</dict>
-		<key>Modules/Translized.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HD8YLbX/TQivweQ6ehU+2jYyKe3qWAPmI+0XfNaxryc=
-			</data>
-		</dict>
-		<key>Modules/Translized.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y8JylDprULA43cOOjGtw8XYAlqyISJr/052HREsI1BI=
+			KPFsrkb5Fd0OlPkEAgl+FYopoyWVmlgJ5uxRqWhc+lQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -120,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xf0xm16Z3C0We0/VDKuKCXDTRsMl6KbybgfUd7J/30A=
+			zIP8FvG/dbgZnW2+6I71QjQxZ4YLJH10yR/j2u3isqE=
 			</data>
 		</dict>
 	</dict>

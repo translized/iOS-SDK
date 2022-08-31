@@ -68,5 +68,23 @@ If you have not enabled bundle swizzling, you can refer to the keys using the Tr
 
     Translized.shared.localisedString(key: "key", value: "default value", table: "tableName")
 
+**Set language programatically**
+
+For use cases when language needs to be changed dinamically in the app, SDK provides method:
+
+    Translized.shared.setLanguageLocale(_ locale: Locale)
+
+You can initialize Locale object with language code identifier (e.g. `Locale(identifier: "fr")`).
+Language must exist in the list languages in OTA release, else it falbacks to current language.
+
+**Swift UI support**
+
+SwiftUI is not automatically localized after `Translized.shared.swizzleMainBundle()` is called. Translated value should be passed to SwiftUI views to make it work with our SDK.
+
+    Text("key") -> Text(NSLocalizedString("key", comment: ""))
+
+String class extension can make it more compact.
+
+
 ## Support
 Contact us through email: **info@translized.com**
