@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Translized"
-  spec.version      = "1.1.0"
+  spec.version      = "1.1.1"
   spec.summary      = "Translized SDK for OTA localization for iOS."
   spec.description  = <<-DESC
                         Publish your translations faster and simpler than ever before. Create release on Translized dashboard and watch as new translations appear in your iOS app.
