@@ -22,6 +22,13 @@ b. Add this line to `dependencies` section of your `Package.swift`:
 
     .package(name: "Translized", url: "https://github.com/translized/iOS-SDK", .upToNextMinor(from: "1.1.0"))
 
+### CocoaPods
+To install using [CocoaPods](https://cocoapods.org/):
+
+Add this to your Podfile
+
+    pod 'Translized', '~> 1.1.1'
+
 ### Manual (.xcframework)
 To install **.xcframework** manually:
 1. Download the [Zip archive](https://github.com/translized/iOS-SDK/archive/refs/tags/1.1.0.zip) containing the .xcframework, extract it, and add it to your project.
