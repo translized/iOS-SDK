@@ -16,18 +16,18 @@ Create release on Translized dashboard and watch as new translations appear in y
 ### Swift Package Manager
 To install using [Swift Package Manager](https://www.swift.org/package-manager/):
 
-a. Add through `File -> Add Packages...` action in Xcode. Use https://github.com/translized/iOS-SDK repository URL and the Version: Up to Next Minor starting with 1.1.0 option.
+a. Add through `File -> Add Packages...` action in Xcode. Use https://github.com/translized/iOS-SDK repository URL and the Version: Up to Next Minor starting with 1.2.0 option.
 
 b. Add this line to `dependencies` section of your `Package.swift`:
 
-    .package(name: "Translized", url: "https://github.com/translized/iOS-SDK", .upToNextMinor(from: "1.1.0"))
+    .package(name: "Translized", url: "https://github.com/translized/iOS-SDK", .upToNextMinor(from: "1.2.0"))
 
 ### CocoaPods
 To install using [CocoaPods](https://cocoapods.org/):
 
 Add this to your Podfile
 
-    pod 'Translized', '~> 1.1.1'
+    pod 'Translized', '~> 1.2.0'
 
 ### Manual (.xcframework)
 To install **.xcframework** manually:

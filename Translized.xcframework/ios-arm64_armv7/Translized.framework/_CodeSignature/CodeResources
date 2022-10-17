@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IP/H+OsW5rC738xzQ5J5jY0wmQI=
+		APwkm0Xe4NePH/DEPsTp/r5IUtM=
 		</data>
 		<key>Modules/Translized.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Translized.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bKLW8efaEE4SxYLJo8oZUz2rvFY=
+		RrvU3iytm2dWvRCLDmGAyF5zZp0=
 		</data>
 		<key>Modules/Translized.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Translized.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		MvcD80kUSsbYMj2HfDNhTlUEAvQ=
+		4qeS32PUEaRHrA5uoLhQ54iIXjU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bKLW8efaEE4SxYLJo8oZUz2rvFY=
+			RrvU3iytm2dWvRCLDmGAyF5zZp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OdRPmL+r5RJjjbzbYfRjcCljxa2Zvhpxw9EdKZSM9Pw=
+			mqeGmiFp4dPruvMIYQkdyv9Y7i+GHWHlvYyfx6jLkPU=
 			</data>
 		</dict>
 		<key>Modules/Translized.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MvcD80kUSsbYMj2HfDNhTlUEAvQ=
+			4qeS32PUEaRHrA5uoLhQ54iIXjU=
 			</data>
 			<key>hash2</key>
 			<data>
-			OUD8z1L2O/KiaQflh4R3CvxiLBSAAB3N53qfdCU4mlc=
+			qp6nyls1zigOfgiDjFLNje3jGxRP1y9OuHW3XWAUTm0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
