@@ -31,7 +31,7 @@ Add this to your Podfile
 
 ### Manual (.xcframework)
 To install **.xcframework** manually:
-1. Download the [Zip archive](https://github.com/translized/iOS-SDK/archive/refs/tags/1.1.0.zip) containing the .xcframework, extract it, and add it to your project.
+1. Download the [Zip archive](https://github.com/translized/iOS-SDK/archive/refs/tags/1.2.0.zip) containing the .xcframework, extract it, and add it to your project.
 2. Add it to your targets (embed and link).
 
 ## Getting started
